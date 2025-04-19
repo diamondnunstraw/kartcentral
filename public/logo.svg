@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="256" fill="#1F2937"/>
+  
+  <!-- Cart Base Shape -->
+  <path d="M346 326H166C158.268 326 152 319.732 152 312V220C152 212.268 158.268 206 166 206H346C353.732 206 360 212.268 360 220V312C360 319.732 353.732 326 346 326Z" fill="#A855F7"/>
+  
+  <!-- Cart Wheels -->
+  <circle cx="200" cy="366" r="20" fill="#A855F7"/>
+  <circle cx="312" cy="366" r="20" fill="#A855F7"/>
+  
+  <!-- Handle -->
+  <path d="M256 146C288 146 314 172 314 204V206H198V204C198 172 224 146 256 146Z" fill="#A855F7"/>
+  
+  <!-- KC Letters -->
+  <path d="M220 236L236 252L220 268M252 236V268" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M280 236L296 252L280 268" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 
