@@ -150,7 +150,7 @@ const Navbar = () => {
             </Link>
 
             <a
-              href="https://career.kartcentral.cloud"
+              href="https://career.kartcentral.shop"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center px-3 py-2 rounded-md hover:bg-gray-700"
