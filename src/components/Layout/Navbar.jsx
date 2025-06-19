@@ -64,7 +64,7 @@ const Navbar = () => {
             </Link>
 
             <a 
-              href="https://career.kartcentral.cloud"
+              href="https://career.kartcentral.shop"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center hover:text-purple-400 transition-colors"
